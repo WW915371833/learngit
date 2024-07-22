@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T08:22:27.069Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="tCAFTGMggcdmOKbcBeiu" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T08:25:51.477Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="pC0hzJeDtiezL0gIs3H1" version="24.7.1" type="github">
   <diagram name="第 1 页" id="WTwFF49JmizuQiAfVp48">
     <mxGraphModel dx="1264" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Z5Cpq-VrVqWhDHp_X_F-1" value="审计服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8Z5Cpq-VrVqWhDHp_X_F-1" value="审计服务" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fillStyle=dots;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="140" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gT1WYOO_GarOQbkLjPxV-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gT1WYOO_GarOQbkLjPxV-1" target="8Z5Cpq-VrVqWhDHp_X_F-1">
